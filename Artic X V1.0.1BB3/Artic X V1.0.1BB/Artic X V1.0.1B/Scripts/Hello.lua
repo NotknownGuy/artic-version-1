@@ -1,0 +1,1 @@
+print('Artic is for winners!')
